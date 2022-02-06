@@ -1,0 +1,18 @@
+# -   SEIGE OF THE ATLAS
+Show
+	Class "Currency"
+	BaseType "Surveyor's Compass" "Charged Compass" "Lesser Eldritch Ember" "Greater Eldritch Ember" "Grand Eldritch Ember" "Exceptional Eldritch Ember" "Lesser Eldritch Ichor" "Greater Eldritch Ichor" "Grand Eldritch Ichor" "Exceptional Eldritch Ichor" "Orb of Conflict" "Orb of Dominance" "Eldritch Chaos Orb" "Eldritch Exalted Orb" "Eldritch Orb of Annulment" "Singular Scouting Report" "Otherworldly Scouting Report" "Comprehensive Scouting Report" "Vaal Scouting Report" "Delirious Scouting Report" "Operative's Scouting Report" "Blighted Scouting Report" "Influenced Scouting Report" "Explorer's Scouting Report" "Oil Extractor"
+	
+	SetFontSize 45	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	
+# -   ARCHNEMSIS STUFF
+Show
+	Class "ArchnemesisMod"
+	
+#   SetFontSize Default 
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
