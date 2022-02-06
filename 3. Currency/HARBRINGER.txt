@@ -1,0 +1,17 @@
+# -   HARBRINGER LEAGUE
+Show
+	Class "Currency"
+	BaseType "Ancient Orb" "Ancient Shard" "Annulment Shard" "Chaos Shard" "Exalted Shard" "Harbinger's Orb" "Mirror Shard" "Regal Shard"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100
+	
+Show
+	Class "Currency"
+	BaseType "Engineer's Orb"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow

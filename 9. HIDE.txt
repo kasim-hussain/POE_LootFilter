@@ -1,0 +1,15 @@
+# --- HIDE ---
+Hide
+	Class "Body Armour" "Boots" "Gloves" "Helmets" "Shields"
+	
+#	SetFontSize Default	
+	
+Hide
+	Class "Axe" "Bow" "Dagger" "Claw" "Mace" "Quiver" "Sceptre" "Staves" "Sword" "Wand" "Warstaves"
+	
+#	SetFontSize Default	
+	
+Hide
+	Class "Amulet" "Belt" "Flasks" "Ring" 
+	
+#	SetFontSize Default	

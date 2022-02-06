@@ -1,0 +1,6 @@
+# -   ATLAS BASES
+Show
+	Class "Belts"
+	BaseType "Blue Pearl Amulet" "Marble Amulet" "Seaglass Amulet"
+	
+#	SetFontSize Default	

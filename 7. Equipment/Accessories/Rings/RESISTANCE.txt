@@ -1,0 +1,6 @@
+# -   RESISTANCE RINGS
+Show
+	Class "Rings"
+	BaseType "Amethyst Ring" "Sapphire Ring" "Topaz Ring" "Ruby Ring" "Two-Stone Ring" "Prismatic Ring"
+
+#	SetFontSize Default	

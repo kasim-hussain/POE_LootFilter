@@ -1,0 +1,43 @@
+Show # Uber Fragments
+	Class "Map Fragment"
+	BaseType "Fragment of Emptiness" "Fragment of Knowledge" "Fragment of Shape" "Fragment of Terror"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+
+Show # Elder Fragments
+	Class "Map Fragment"
+	BaseType "Fragment of Constriction" "Fragment of Enslavement" "Fragment of Eradication" "Fragment of Purification"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+	
+Show # Shaper Fragments
+	Class "Map Fragment"
+	BaseType "Fragment of the Chimera" "Fragment of the Hydra" "Fragment of the Minotaur" "Fragment of the Phoenix"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+
+Show # Sacrifice Set
+	Class "Map Fragment"
+	BaseType "Sacrifice at Dawn" "Sacrifice at Dusk" "Sacrifice at Midnight" "Sacrifice at Noon"
+	
+Show # Mortal Set
+	Class "Map Fragment"
+	BaseType "Mortal Grief" "Mortal Hope" "Mortal Ignorance" "Mortal Rage"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100

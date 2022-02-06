@@ -1,0 +1,11 @@
+# -   BESTIARY
+Show # Bestiary Sets
+	Class "Map Fragment"
+	BaseType "Craicic Lure" "Farric Lure" "Fenumal Lure" "Saqawine Lure"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100 
+	

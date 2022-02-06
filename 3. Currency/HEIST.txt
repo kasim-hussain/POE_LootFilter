@@ -1,0 +1,7 @@
+# -   HEIST LEAGUE
+Show
+	Class "Currency"
+	BaseType "Tempering Orb" "Tailoring Orb" "Secondary Regrading Lens" "Rogue's Marker" "Prime Regrading Lens"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow

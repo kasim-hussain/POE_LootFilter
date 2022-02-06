@@ -1,0 +1,14 @@
+# -   CORE AMULETS
+Show
+	Class "Amulets"
+	BaseType "Agate Amulet" "Citrine Amulet" "Turquoise Amulet" "Onyx Amulet"
+	
+Show
+	Class "Amulets"
+	BaseType "Amber Amulet" "Jade Amulet" "Lapis Amulet"
+	
+Show
+	Class "Amulets"
+	BaseType "Coral Amulet" "Paua Amulet"
+
+#	SetFontSize Default	

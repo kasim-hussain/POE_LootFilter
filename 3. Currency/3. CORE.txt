@@ -1,0 +1,148 @@
+# -   ECHOES OF THE ATLAS
+Show
+	Class "Currency"
+	BaseType "Elevated Sextant" 
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound 5 100 
+	
+# -   CONQUERORS OF THE ATLAS
+Show
+	Class "Currency"
+	BaseType "Awakener's Orb" "Crusader's Exalted Orb" "Hunter's Exalted Orb" "Redeemer's Exalted Orb" "Warlord's Exalted Orb"
+
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound ShExalted 100
+	
+# -   ATLAS OF WORLDS
+Show
+	Class "Currency"
+	BaseType "Awakened Sextant"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 2 Yellow Circle 
+	PlayEffect Yellow
+	
+# -   CORE GAME CURRENCY
+Show
+	Class "Currency"
+	BaseType "Mirror of Kalandra"
+    
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound ShMirror 100
+	
+Show
+	Class "Currency"
+	BaseType "Albino Rhoa Feather"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound 5 100  
+	
+Show
+	Class "Currency"
+	BaseType "Exalted Orb"
+    
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound ShExalted 100
+	
+Show
+	Class "Currency"
+	BaseType "Divine Orb"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound ShDivine 100
+	
+Show
+	Class "Currency"
+	BaseType "Chaos Orb" "Veiled Chaos Orb"
+    
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound ShChaos 100
+	
+Show
+	Class "Currency"
+	BaseType "Regal Orb"
+    
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound ShRegal 100
+	
+Show
+	Class "Currency"
+	BaseType "Blessed Orb"
+
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound ShBlessed 100
+	
+Show
+	Class "Currency"
+	BaseType "Orb of Fusing"
+    
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound ShFusing 100
+	
+Show
+	Class "Currency"
+	BaseType "Orb of Alchemy"
+    
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound ShAlchemy 100
+	
+Show
+	Class "Currency"
+	BaseType "Orb of Annulment" 
+    
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	PlayAlertSound 5 100
+	
+Show
+	Class "Currency"
+	BaseType "Cartographer's Chisel" "Chromatic Orb" "Gemcutter's Prism" "Glassblower's Bauble" "Jeweller's Orb" "Orb of Alteration" "Orb of Augmentation" "Orb of Binding"  "Orb of Chance" "Orb of Regret" "Orb of Scouring" "Orb of Unmaking" "Stacked Deck" "Vaal Orb"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 2 Yellow Circle
+	PlayEffect Yellow
+
+Show
+	Class "Currency"
+	BaseType "Armourer's Scrap" "Blacksmith's Whetstone" "Orb of Transmutation" "Portal Scroll" "Scroll of Wisdom"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow Temp

@@ -1,0 +1,52 @@
+# --- DEX HELMETS
+Show
+	Class "Helmets"
+	BaseType "Lion Pelt"
+	Rarity Rare
+	
+	SetBorderColor 28 134 238 255
+	
+Show
+	Class "Helmets"
+	BaseType "Sinner Tricorne"
+	AreaLevel < 70
+	
+Show
+	Class "Helmets"
+	BaseType "Silken Hood"
+	AreaLevel < 64
+	
+Show
+	Class "Helmets"
+	BaseType "Ursine Pelt"
+	AreaLevel < 60
+	
+Show
+	Class "Helmets"
+	BaseType "Noble Tricorne"
+	AreaLevel < 55
+	
+Show
+	Class "Helmets"
+	BaseType "Hunter Hood"
+	AreaLevel < 47
+	
+Show
+	Class "Helmets"
+	BaseType "Wolf Pelt"
+	AreaLevel < 41
+	
+Show
+	Class "Helmets"
+	BaseType "Leather Hood"
+	AreaLevel < 30
+	
+Show
+	Class "Helmets"
+	BaseType "Tricorne"
+	AreaLevel < 20
+	
+Show
+	Class "Helmets"
+	BaseType "Leather Cap"
+	AreaLevel < 10

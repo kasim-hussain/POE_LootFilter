@@ -1,0 +1,6 @@
+# -   HEIST AMULETS
+Show
+	Class "Belts"
+	BaseType "Astrolabe Amulet" "Simplex Amulet"
+	
+#	SetFontSize Default	

@@ -1,0 +1,6 @@
+# -   BREACH RINGS
+Show
+	Class "Rings"
+	BaseType "Breach Ring"
+	
+#	SetFontSize Default	

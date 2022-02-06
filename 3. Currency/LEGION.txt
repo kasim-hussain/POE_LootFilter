@@ -1,0 +1,9 @@
+# -   LEGION LEAGUE
+Show
+	Class "Currency"
+	BaseType "Timeless Eternal Empire Splinter" "Timeless Karui Splinter" "Timeless Maraketh Splinter" "Timeless Templar Splinter" "Timeless Vaal Splinter"
+	
+#	SetFontSize Default	
+
+	MinimapIcon 1 Yellow Circle
+	PlayEffect Yellow

@@ -1,0 +1,18 @@
+# -    INCUBATORS
+Show
+	Class "Incubator"
+	BaseType "Blighted Incubator" "Diviner's Incubator" "Fine Incubator" "Foreboding Incubator" "Fossilised Incubator" "Infused Incubator" "Kalguuran Incubator" "Maddening Incubator" "Ornate Incubator" "Otherworldly Incubator" "Time-Lost Incubator" "Thaumaturge's Incubator" "Whispering Incubator"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Orange Raindrop 
+	PlayEffect Orange Temp 
+
+Show
+	Class "Incubator"
+	BaseType "Abyssal Incubator" "Cartographer's Incubator" "Celestial Armoursmith's Incubator" "Celestial Blacksmith's Incubator" "Celestial Jeweller's Incubator" "Eldritch Incubator" "Enchanted Incubator" "Feral Incubator" "Fragmented Incubator" "Gemcutter's Incubator" "Geomancer's Incubator" "Morphing Incubator" "Mysterious Incubator" "Obscured Incubator" "Primal Incubator" "Singular Incubator" "Skittering Incubator"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 2 Orange Raindrop 
+	PlayEffect Orange Temp

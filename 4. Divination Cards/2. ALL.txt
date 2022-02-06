@@ -1,0 +1,10 @@
+# -   CURRENCY
+Show
+	Class "Divination Card"
+	BaseType "Abandoned Wealth" "Acclimatisation" "Alluring Bounty" "Brother's Stash" "Chaotic Disposition" "Coveted Possession" "Demigod's Wager" "Harmony of Souls" "House of Mirrors" "Monochrome" "Seven Years Bad Luck" "Society's Remorse" "The Cacophony" "The Cartographer" "The Fool" "The Gemcutter" "The Heroic Shot" "The Hoarder" "The Immortal" "The Innocent" "The Long Con" "The Saint's Treasure" "The Seeker" "The Sephirot" "The Survivalist" "The Tinkerer's Table" "The Union" "The Wrath" "Underground Forest" "Unrequited Love" "Vinia's Token"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Cyan UpsideDownHouse
+	PlayEffect Cyan Temp
+	PlayAlertSound 5 100

@@ -1,0 +1,12 @@
+# -   QUIVERS
+Show
+	Class "Quivers"
+	BaseType "Blazing Arrow Quiver" "Heavy Arrow Quiver" "Feathered Arrow Quiver" "Primal Arrow Quiver" "Vile Arrow Quiver"
+	
+#	SetFontSize Default	
+
+Show
+	Class "Quivers"
+	BaseType "Artillery Quiver" "Ornate Quiver" "Spike-Point Arrow Quiver" "Penetrating Arrow Quiver" "Broadhead Arrow Quiver"
+	
+#	SetFontSize Default	

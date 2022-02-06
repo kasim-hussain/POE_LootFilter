@@ -1,0 +1,114 @@
+# Author: Iniquitous_
+# Patch Version: 3.17
+# Modified: 05/02/2022
+
+# --- SETTINGS ---
+# -   CONDITIONS
+# AlternateQuality         <boolean>
+# AnyEnchantment           <boolean>
+# AreaLevel                <value>
+# BaseArmour               <value>
+# BaseDefencePercentile    <value>
+# BaseEnergyShield         <value>
+# BaseEvasion              <value>
+# BaseType                 <Type>
+# BaseWard                 <value>
+# BlightedMap              <boolean>
+# Class                    <class>
+# Corrupted                <boolean>
+# CorruptedMods            <value>
+# DropLevel                <level>
+# ElderItem                <boolean>
+# ElderMap                 <boolean>
+# EnchantmentPassiveNode   <value>
+# EnchantmentPassiveNum    <value>
+# FracturedItem            <boolean>
+# GemLevel                 <value>
+# GemQualityType           <value>
+# HasEaterOfWorldsImplicit <value>
+# HasEnchantment           <value>
+# HasExplicitMod           <value>
+# HasInfluence             <type>
+# HasSearingExarchImplicit <value>
+# Height                   <value>
+# Identified               <boolean>
+# ItemLevel                <level>
+# LinkedSockets            <links>
+# MapTier                  <value>
+# Mirrored                 <boolean>
+# Prophecy                 <type>
+# Quality                  <quality>
+# Rarity                   <rarity>
+# Replica                  <boolean>
+# Scourged                 <boolean>
+# ShapedMap                <boolean>
+# ShaperItem               <boolean>
+# SocketGroup              <group syntax>
+# Sockets                  <group syntax>
+# StackSize                <value>
+# SynthesisedItem          <boolean>
+# UberBlightedMap          <boolean>
+# Width                    <value>
+
+# -   ACTIONS
+# CustomAlertSound             <file name | file path, volume>
+# CustomAlertSoundOptional     <file name | file path, volume>
+# DisableDropSound
+# DisableDropSoundIfAlertSound
+# EnableDropSoundIfAlertSound
+# EnableDropSound
+# PlayAlertSound               <Id, volume>
+# PlayAlertSoundPositional     <Id, volume>
+
+# -   OTHER ACTIONS
+# MinimapIcon        <size, color, shape>
+# PlayEffect         <color, temp>
+# SetBackgroundColor <red, green, blue, alpha>
+# SetBorderColor     <red, green, blue, alpha>
+# SetFontSize        <value> 18-45 (default: 32)
+# SetTextColor       <red, green, blue, alpha>
+
+# -   MISC
+# Size:    -1D, 0L, 1M, 2S
+# Colors:  Red Green Blue Brown White Yellow Cyan Grey Orange Pink Purple
+# Shapes:  Circle Diamond Hexagon Square Star Triangle Cross Moon Raindrop Kite Pentagon UpsideDownHouse
+# ID:      1-16
+# Volume:  0-300
+# R,G,B,A: 0-255
+
+# --- FILTER OVERVIEW ---
+# Settings
+# Temp
+# Currency
+# Divination Cards
+# Map Fragments
+# Maps
+# Equipment
+#   Influenced Mods
+#	Incursion Mods
+#	Labrynth Enchantments
+#	Armour
+#		Uniques
+#		Body Armour
+#		Boots
+#		Gloves
+#		Helmets
+#		Shields
+#	Weapons
+#       Uniques
+#		Axes
+#		Maces
+#		Swords
+#		Bows
+#		Wands
+#		Sceptres
+#		Daggers
+#		Claws
+#		Fishing Rods
+#		Quivers
+#	Accessories
+#   Flasks
+#   Jewels
+#   Vendor Recipes
+# Misc
+# Hide Junk

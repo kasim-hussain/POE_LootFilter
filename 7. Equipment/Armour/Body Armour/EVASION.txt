@@ -1,0 +1,82 @@
+# --- DEX ARMOUR
+Show
+	Class "Body Armours"
+	BaseType "Assassin's Garb" "Zodiac Leather"
+	Rarity Rare
+	
+	SetBorderColor 28 134 238 255
+	
+Show
+	Class "Body Armours"
+	BaseType "Exquisite Leather"
+	AreaLevel < 65
+	
+Show
+	Class "Body Armours"
+	BaseType "Destiny Leather"
+	AreaLevel < 62
+
+Show
+	Class "Body Armours"
+	BaseType "Sharkskin Tunic"
+	AreaLevel < 59
+	
+Show
+	Class "Body Armours"
+	BaseType "Cutthroat's Garb"
+	AreaLevel < 56
+	
+Show
+	Class "Body Armours"
+	BaseType "Coronal Leather"
+	AreaLevel < 53
+	
+Show
+	Class "Body Armours"
+	BaseType "Glorious Leather"
+	AreaLevel < 49
+	
+Show
+	Class "Body Armours"
+	BaseType "Frontier Leather"
+	AreaLevel < 45
+	
+Show
+	Class "Body Armours"
+	BaseType "Eelskin Tunic"
+	AreaLevel < 41
+	
+Show
+	Class "Body Armours"
+	BaseType "Thief's Garb"
+	AreaLevel < 37
+	
+Show
+	Class "Body Armours"
+	BaseType "Sun Leather"
+	AreaLevel < 35
+	
+Show
+	Class "Body Armours"
+	BaseType "Full Leather"
+	AreaLevel < 32
+	
+Show
+	Class "Body Armours"
+	BaseType "Wild Leather"
+	AreaLevel < 28
+	
+Show
+	Class "Body Armours"
+	BaseType "Buckskin Tunic"
+	AreaLevel < 25
+
+Show
+	Class "Body Armours"
+	BaseType "Strapped Leather"
+	AreaLevel < 17
+
+Show
+	Class "Body Armours"
+	BaseType "Shabby Jerkin"
+	AreaLevel < 9

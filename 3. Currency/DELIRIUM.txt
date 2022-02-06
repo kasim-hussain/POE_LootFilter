@@ -1,0 +1,26 @@
+# -   DELIRIUM LEAGUE
+Show
+	Class "Currency"
+	BaseType "Simulacrum Splinter"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 2 Yellow Circle
+	PlayEffect Yellow
+
+Show
+	Class "Currency"
+	BaseType "Blighted Delirium Orb" "Cartographer's Delirium Orb" "Diviner's Delirium Orb" "Fine Delirium Orb" "Foreboding Delirium Orb" "Fossilised Delirium Orb" "Singular Delirium Orb" "Skittering Delirium Orb" "Timeless Delirium Orb"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100
+	
+Show
+	Class "Currency"
+	BaseType "Abyssal Delirium Orb" "Amorphous Delirium Orb" "Blacksmith's Delirium Orb" "Fragmented Delirium Orb" "Imperial Delirium Orb" "Jeweller's Delirium Orb" "Obscured Delirium Orb" "Primal Delirium Orb" "Thaumaturge's Delirium Orb" "Whispering Delirium Orb"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow Temp

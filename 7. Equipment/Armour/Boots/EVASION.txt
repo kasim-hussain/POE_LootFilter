@@ -1,0 +1,79 @@
+# --- DEX BOOTS
+# 1 to (5-6) Added Attack Lightning Damage per 200 Accuracy Rating
+# 25% less Accuracy Rating
+Show
+	Class "Boots"
+	BaseType "Stormrider Boots" "Slink Boots"
+	Rarity Rare
+	
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Windbreak Boots"
+	AreaLevel < 80
+
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Stealth Boots"
+	AreaLevel < 69
+	
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Shagreen Boots"
+	AreaLevel < 62
+	
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Sharkskin Boots"
+	AreaLevel < 55
+	
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Cloudwhisper Boots"
+	AreaLevel < 50
+	
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Eelskin Boots"
+	AreaLevel < 44
+	
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Nubuck Boots"
+	AreaLevel < 39
+	
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Deerskin Boots"
+	AreaLevel < 34
+	
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Goathide Boots"
+	AreaLevel < 22
+	
+#	SetFontSize Default	
+	
+Show
+	Class "Boots"
+	BaseType "Rawhide Boots"
+	AreaLevel < 12
+	
+#	SetFontSize Default	

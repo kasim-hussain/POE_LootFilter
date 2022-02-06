@@ -1,0 +1,10 @@
+# -   HARVEST LEAGUE
+Show
+	Class "Currency"
+	BaseType "Infused Engineer's Orb"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100

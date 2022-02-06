@@ -1,0 +1,34 @@
+# -   DELVE LEAGUE
+Show
+	Class "Currency"
+	BaseType "Bloodstained Fossil" "Bound Fossil" "Corroded Fossil" "Faceted Fossil" "Fractured Fossil" "Gilded Fossil" "Glyphic Fossil" "Hollow Fossil" "Jagged Fossil" "Lucent Fossil" "Perfect Fossil" "Pristine Fossil" "Sanctified Fossil" "Serrated Fossil" "Shuddering Fossil" "Tangled Fossil"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100
+	
+Show
+	Class "Currency"
+	BaseType "Aberrant Fossil" "Aetheric Fossil" "Dense Fossil" "Frigid Fossil" "Metallic Fossil" "Prismatic Fossil" "Scorched Fossil"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow
+	
+Show
+	Class "Currency"
+	BaseType "Potent Chaotic Resonator" "Powerful Chaotic Resonator" "Prime Chaotic Resonator" "Primitive Chaotic Resonator"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100
+	
+Show
+	Class "Currency"
+	BaseType "Potent Alchemical Resonator" "Powerful Alchemical Resonator" "Prime Alchemical Resonator" "Primitive Alchemical Resonator"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow

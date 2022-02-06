@@ -1,0 +1,6 @@
+# -   HEIST BELTS
+Show
+	Class "Belts"
+	BaseType "Micro-Distillery Belt" "Mechalarm Belt"
+	
+#	SetFontSize Default	

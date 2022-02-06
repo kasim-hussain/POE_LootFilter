@@ -1,0 +1,60 @@
+# -   LIFE/MANA FLASKS
+Show # Eternal Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Eternal Life Flask" "Eternal Mana Flask"
+	AreaLevel < 70
+
+Show # Divine Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Divine Life Flask" "Divine Mana Flask"
+	AreaLevel < 70
+
+Show # Sanctified Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Sanctified Life Flask" "Sanctified Mana Flask"
+	AreaLevel < 63
+
+Show # Hallowed Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Hallowed Life Flask" "Hallowed Mana Flask"
+	AreaLevel < 53
+
+Show # Sacred Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Sacred Life Flask" "Sacred Mana Flask"
+	AreaLevel < 45
+
+Show # Colossal Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Colossal Life Flask" "Colossal Mana Flask"
+	AreaLevel < 39
+
+Show # Giant Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Giant Life Flask" "Giant Mana Flask"
+	AreaLevel < 33
+
+Show # Grand Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Grand Life Flask" "Grand Mana Flask"
+	AreaLevel < 27
+
+Show # Greater Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Greater Life Flask" "Greater Mana Flask"
+	AreaLevel < 21
+
+Show # Large Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Large Life Flask" "Large Mana Flask"
+	AreaLevel < 15
+	
+Show # Medium Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Medium Life Flask" "Medium Mana Flask"
+	AreaLevel < 9
+
+Show # Small Flask:
+	Class "Life Flasks" "Mana Flasks"
+	BaseType "Small Life Flask" "Small Mana Flask"
+	AreaLevel < 6 

@@ -1,0 +1,6 @@
+# -   ATLAS BASES
+Show
+	Class "Belts"
+	BaseType "Vanguard Belt" "Crystal Belt"
+	
+#	SetFontSize Default	

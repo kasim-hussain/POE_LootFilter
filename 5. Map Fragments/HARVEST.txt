@@ -1,0 +1,11 @@
+# -   HARVEST
+Show # Oshabi Boss
+	Class "Map Fragment"
+	BaseType "Sacred Blossom"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100 
+	

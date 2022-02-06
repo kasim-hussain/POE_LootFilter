@@ -1,0 +1,25 @@
+# --- GEMS
+Show
+	Class "Support Skill Gems"
+	BaseType "Awakened"
+	
+#	SetFontSize Default	
+
+Show
+	Class "Active Skill Gems" "Support Skill Gems"
+	GemLevel = 21
+	Quality = 23
+	
+#	SetFontSize Default	
+
+Show
+	Class "Support Skill Gems"
+	BaseType "Empower" "Enhance" "Enlighten" "Portal"
+	
+#	SetFontSize Default	
+
+Show
+	Class "Active Skill Gems" "Support Skill Gems"
+	GemLevel = 20
+	
+#	SetFontSize Default	

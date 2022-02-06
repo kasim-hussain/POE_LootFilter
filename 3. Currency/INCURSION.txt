@@ -1,0 +1,10 @@
+# -   INCURSION LEAGUE
+Show
+	Class "Currency"
+	BaseType "Vial of Awakening" "Vial of Consequence" "Vial of Dominance" "Vial of Fate" "Vial of Sacrifice" "Vial of Summoning" "Vial of the Ghost" "Vial of the Ritual" "Vial of Transcendence"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100

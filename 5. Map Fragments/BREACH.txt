@@ -1,0 +1,44 @@
+# -    BREACH
+Show # Flawless :
+	Class "Map Fragments"
+	BaseType "Chayula's Flawless Breachstone" "Esh's Flawless Breachstone" "Tul's Flawless Breachstone" "Uul-Netol's Flawless Breachstone" "Xoph's Flawless Breachstone"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+	
+Show # Pure:
+	Class "Map Fragments"
+	BaseType "Chayula's Pure Breachstone" "Esh's Pure Breachstone" "Tul's Pure Breachstone" "Uul-Netol's Pure Breachstone" "Xoph's Pure Breachstone"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+	
+Show # Enriched:
+	Class "Map Fragments"
+	BaseType "Chayula's Enriched Breachstone" "Esh's Enriched Breachstone" "Tul's Enriched Breachstone" "Uul-Netol's Enriched Breachstone" "Xoph's Enriched Breachstone"
+
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+	
+Show # Charged:
+	Class "Map Fragments"
+	BaseType "Chayula's Charged Breachstone" "Esh's Charged Breachstone" "Tul's Charged Breachstone" "Uul-Netol's Charged Breachstone" "Xoph's Charged Breachstone"
+	
+#	SetFontSize Default
+	PlayEffect Grey
+
+Show # Standard:
+	Class "Map Fragments"
+	BaseType "Chayula's Breachstone" "Esh's Breachstone" "Tul's Breachstone" "Uul-Netol's Breachstone" "Xoph's Breachstone"
+	
+#	SetFontSize Default
+	PlayEffect Grey 

@@ -1,0 +1,14 @@
+# --- INCURSION MODS
+# Guatelitzi - Life && Regen Mods
+# Topotante  - Adds ## To ## Element Damage && Damage Penetrate % Elemental Resistance
+#			 - % Increased Element Damage && Adds ## To ## Element Damage to Spells
+# Tacati     - % Chaos Resistance && % Reduced Chaos Damage Taken over Time
+#		     - Adds ## To ## Chaos Damage && % Increased Damage with Poison
+# Matatl     - % Increased Movement && % Increased Movement if You Haven't Been Hit Recently
+#		     - % Increased Movement && % Chance to Dodge Attack Hits
+# Puhuarte   - % Elemental Resistance && % of Phys Damage from Hits Taken as Elemental Damage
+
+Show
+    HasExplicitMod "Citaqualotl's" "of Citaqualotl" "Guatelitzi's" "of Guatelitzi" "Tacati's" "of Tacati" "Topotante's" "Matatl's" "of Matatl" "Puhuarte" "of Puhuarte" "Xopec's"
+	
+#	SetFontSize Default	

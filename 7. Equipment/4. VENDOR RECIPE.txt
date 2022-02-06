@@ -1,0 +1,33 @@
+# --- VENDOR RECIPES
+# -   DIVINE ORB
+Show
+    Sockets = 6
+	LinkedSockets = 6
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+    PlayAlertSound ShDivine 100
+	
+# -   JEWELLER'S ORB
+Show
+    Sockets = 6
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow
+	
+# -   CHROMATIC ORBS
+Show
+	Class "Boots" "Gloves" "Helmets"
+	LinkedSockets <= 4
+	SocketGroup RGB
+	AreaLevel < 68
+	
+Show
+	Class "Shields"
+	LinkedSockets = 3
+	SocketGroup RGB
+	AreaLevel < 70

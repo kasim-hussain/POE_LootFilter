@@ -1,0 +1,5 @@
+# --- LABRYNTH ENCHANTS
+Show
+	AnyEnchantment True
+	
+#	SetFontSize Default	

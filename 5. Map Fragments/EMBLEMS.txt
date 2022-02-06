@@ -1,0 +1,20 @@
+# -    EMBLEMS
+Show # Unrelenting :
+	Class "Map Fragments"
+	BaseType "Unrelenting Timeless Eternal Emblem" "Unrelenting Timeless Karui Emblem" "Unrelenting Timeless Maraketh Emblem" "Unrelenting Timeless Templar Emblem" "Unrelenting Timeless Vaal Emblem"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+	
+Show # Standard:
+	Class "Map Fragments"
+	BaseType "Timeless Eternal Emblem" "Timeless Karui Emblem" "Timeless Maraketh Emblem" "Timeless Templar Emblem" "Timeless Vaal Emblem"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100

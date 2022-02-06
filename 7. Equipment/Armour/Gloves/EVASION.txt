@@ -1,0 +1,56 @@
+# --- DEX GLOVES
+Show
+	Class "Gloves"
+	BaseType "Gripped Gloves" "Sinistral Gloves" "Slink Gloves"
+	
+	SetBorderColor 28 134 238 255
+	
+Show
+	Class "Gloves"
+	BaseType "Southswing Gloves"
+	AreaLevel < 70
+	
+Show
+	Class "Gloves"
+	BaseType "Stealth Gloves"
+	AreaLevel < 70
+	
+Show
+	Class "Gloves"
+	BaseType "Shagreen Gloves"
+	AreaLevel < 62
+	
+Show
+	Class "Gloves"
+	BaseType "Sharkskin Gloves"
+	AreaLevel < 54
+	
+Show
+	Class "Gloves"
+	BaseType "Eelskin Gloves"
+	AreaLevel < 45
+	
+Show
+	Class "Gloves"
+	BaseType "Gauche Gloves"
+	AreaLevel < 40
+	
+Show
+	Class "Gloves"
+	BaseType "Nubuck Gloves"
+	AreaLevel < 38
+	
+Show
+	Class "Gloves"
+	BaseType "Deerskin Gloves"
+	AreaLevel < 33
+	
+Show
+	Class "Gloves"
+	BaseType "Goathide Gloves"
+	AreaLevel < 21
+	
+Show
+	Class "Gloves"
+	BaseType "Rawhide Gloves"
+	AreaLevel < 9

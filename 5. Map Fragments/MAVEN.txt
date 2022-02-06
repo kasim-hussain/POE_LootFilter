@@ -1,0 +1,10 @@
+# -   MAVEN
+Show # Maven Invitations
+	Class "Misc Map Item"
+	BaseType "Maven's Invitation: The Feared" "Maven's Invitation: The Forgotten" "Maven's Invitation: The Formed" "Maven's Invitation: The Hidden" "Maven's Invitation: The Twisted"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100

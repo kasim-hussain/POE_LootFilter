@@ -1,0 +1,6 @@
+# -   ABYSS BELTS
+Show
+	Class "Rings"
+	BaseType "Stygian Vise"
+	
+#	SetFontSize Default	

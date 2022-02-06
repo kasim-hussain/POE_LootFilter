@@ -1,0 +1,7 @@
+# -   BESTIARY LEAGUE
+Show
+	Class "Currency"
+	BaseType "Bestiary Orb" "Imprinted Bestiary Orb"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow 

@@ -1,0 +1,10 @@
+# -   DELIRIUM
+Show # Simulacrum
+	Class "Map Fragments"
+	BaseType "Simulacrum"
+	
+#	SetFontSize Default
+	
+	MinimapIcon 0 Grey Square
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100

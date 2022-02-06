@@ -1,0 +1,181 @@
+# --- BOWS
+Show # 10% increased Movement Speed.
+	Class "Bows"
+	BaseType "Maraketh Bow"
+	
+#	SetFontSize Default	
+
+Show # 6% increased Movement Speed.
+	Class "Bows"
+	BaseType "Steelwood Bow"
+	AreaLevel < 71 
+	
+#	SetFontSize Default	
+
+Show # 6% increased Movement Speed.
+	Class "Bows"
+	BaseType "Reflex Bow"
+	AreaLevel < 57 
+	
+#	SetFontSize Default	
+
+----------
+	
+Show # Adds (105-116) to (160-172) Fire Damage.
+	Class "Bows"
+	BaseType "Solarine Bow"
+	
+#	SetFontSize Default	
+
+Show # Adds (70-84) to (110-124) Fire Damage.
+	Class "Bows"
+	BaseType "Foundry Bow"
+	AreaLevel < 50
+	
+#	SetFontSize Default	
+
+Show # Adds (40-48) to (60-72) Fire Damage.
+	Class "Bows"
+	BaseType "Hedron Bow"
+	AreaLevel < 70
+	
+#	SetFontSize Default	
+	
+----------
+	
+Show # (30-50)% increased Critical Strike Chance.
+	Class "Bows"
+	BaseType "Harbinger Bow"
+	
+#	SetFontSize Default	
+
+Show # (30-50)% increased Critical Strike Chance.
+	Class "Bows"
+	BaseType "Decimation Bow"
+	AreaLevel < 68
+	
+#	SetFontSize Default	
+
+Show # (30-50)% increased Critical Strike Chance.
+	Class "Bows"
+	BaseType "Death Bow"
+	AreaLevel < 53
+	
+#	SetFontSize Default	
+	
+----------
+	
+Show # (20-24)% increased Elemental Damage with Attack Skills.
+	Class "Bows"
+	BaseType "Imperial Bow"
+	
+#	SetFontSize Default	
+
+Show # (20-24)% increased Elemental Damage with Attack Skills.
+	Class "Bows"
+	BaseType "Highborn Bow"
+	AreaLevel < 66
+	
+#	SetFontSize Default	
+
+Show # (20-24)% increased Elemental Damage with Attack Skills.
+	Class "Bows"
+	BaseType "Royal Bow"
+	AreaLevel < 50
+	
+#	SetFontSize Default	
+	
+----------
+	
+Show
+	Class "Bows"
+	BaseType "Spine Bow"
+	
+#	SetFontSize Default	
+
+Show
+	Class "Bows"
+	BaseType "Ivory Bow"
+	AreaLevel < 64
+	
+#	SetFontSize Default	
+
+Show
+	Class "Bows"
+	BaseType "Bone Bow"
+	AreaLevel < 47
+	
+#	SetFontSize Default	
+
+----------
+
+Show # +(15-25)% to Global Critical Strike Multiplier.
+	Class "Bows"
+	BaseType "Assassin Bow"
+	
+#	SetFontSize Default	
+	
+Show # +(15-25)% to Global Critical Strike Multiplier.
+	Class "Bows"
+	BaseType "Sniper Bow"
+	AreaLevel < 62
+	
+#	SetFontSize Default	
+
+Show # +(15-25)% to Global Critical Strike Multiplier.
+	Class "Bows"
+	BaseType "Recurve Bow"
+	AreaLevel < 44
+	
+#	SetFontSize Default	
+
+----------
+
+Show
+	Class "Bows"
+	BaseType "Ranger Bow"
+	
+#	SetFontSize Default	
+
+Show
+	Class "Bows"
+	BaseType "Compound Bow"
+	AreaLevel < 60
+	
+#	SetFontSize Default	
+
+Show
+	Class "Bows"
+	BaseType "Composite Bow"
+	AreaLevel < 41
+	
+#	SetFontSize Default
+
+----------
+
+Show
+	Class "Bows"
+	BaseType "Thicket Bow"
+	
+#	SetFontSize Default	
+
+Show
+	Class "Bows"
+	BaseType "Grove Bow"
+	AreaLevel < 56
+	
+#	SetFontSize Default	
+
+Show
+	Class "Bows"
+	BaseType "Short Bow"
+	AreaLevel < 35
+	
+#	SetFontSize Default	
+
+Show
+	Class "Bows"
+	BaseType "Crude Bow"
+	AreaLevel < 5
+	
+#	SetFontSize Default	

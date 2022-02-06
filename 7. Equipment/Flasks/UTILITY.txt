@@ -1,0 +1,14 @@
+# -   UTILITY FLASKS
+Show 
+	Class "Utility Flasks" "Critical Utility Flasks"
+	BaseType "Quicksilver Flask" "Stibnite Flask" "Silver Flask" "Aquamarine Flask" "Granite Flask" "Jade Flask" "Quartz Flask" "Sulphur Flask" "Basalt Flask" "Diamond Flask"
+	Rarity Magic
+	
+#	SetFontSize Default	
+
+# --- Resistance Flasks
+Show
+	Class "Utility Flasks"
+	BaseType "Bismuth Flask" "Amethyst Flask" "Ruby Flask" "Sapphire Flask" "Topaz Flask"
+	
+#	SetFontSize Default	

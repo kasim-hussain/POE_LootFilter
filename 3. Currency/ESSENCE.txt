@@ -1,0 +1,65 @@
+# -   ESSENCE LEAGUE
+Show # TIER 8:
+	Class "Currency"
+	BaseType "Essence of Delirium" "Essence of Horror" "Essence of Hysteria" "Essence of Insanity"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100
+	
+Show # TIER 7:
+	Class "Currency"
+	BaseType "Deafening Essence of Greed"  "Deafening Essence of Contempt" "Deafening Essence of Hatred" "Deafening Essence of Woe" "Deafening Essence of Fear" "Deafening Essence of Anger" "Deafening Essence of Torment" "Deafening Essence of Sorrow" "Deafening Essence of Rage" "Deafening Essence of Suffering" "Deafening Essence of Wrath" "Deafening Essence of Doubt" "Deafening Essence of Loathing" "Deafening Essence of Zeal" "Deafening Essence of Anguish" "Deafening Essence of Spite" "Deafening Essence of Scorn" "Deafening Essence of Envy" "Deafening Essence of Misery" "Deafening Essence of Dread"
+
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100
+	
+Show # TIER 6:
+	Class "Currency"
+	BaseType "Shrieking Essence of Greed"  "Shrieking Essence of Contempt" "Shrieking Essence of Hatred" "Shrieking Essence of Woe" "Shrieking Essence of Fear" "Shrieking Essence of Anger" "Shrieking Essence of Torment" "Shrieking Essence of Sorrow" "Shrieking Essence of Rage" "Shrieking Essence of Suffering" "Shrieking Essence of Wrath" "Shrieking Essence of Doubt" "Shrieking Essence of Loathing" "Shrieking Essence of Zeal" "Shrieking Essence of Anguish" "Shrieking Essence of Spite" "Shrieking Essence of Scorn" "Shrieking Essence of Envy" "Shrieking Essence of Misery" "Shrieking Essence of Dread"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100
+	
+Show # TIER 5:
+	Class "Currency"
+	BaseType "Screaming Essence of Greed" "Screaming Essence of Contempt" "Screaming Essence of Hatred" "Screaming Essence of Woe" "Screaming Essence of Fear" "Screaming Essence of Anger" "Screaming Essence of Torment" "Screaming Essence of Sorrow" "Screaming Essence of Rage" "Screaming Essence of Suffering" "Screaming Essence of Wrath" "Screaming Essence of Doubt" "Screaming Essence of Loathing" "Screaming Essence of Zeal" "Screaming Essence of Anguish" "Screaming Essence of Spite" "Screaming Essence of Scorn" "Screaming Essence of Envy" "Screaming Essence of Misery" "Screaming Essence of Dread"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100
+	
+Show # TIER 4:
+	Class "Currency"
+	BaseType "Wailing Essence of Greed" "Wailing Essence of Contempt" "Wailing Essence of Hatred" "Wailing Essence of Woe" "Wailing Essence of Fear" "Wailing Essence of Anger" "Wailing Essence of Torment" "Wailing Essence of Sorrow" "Wailing Essence of Rage" "Wailing Essence of Suffering" "Wailing Essence of Wrath" "Wailing Essence of Doubt" "Wailing Essence of Loathing" "Wailing Essence of Zeal" "Wailing Essence of Anguish" "Wailing Essence of Spite"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow
+	
+Show # TIER 3:
+	Class "Currency"
+	BaseType "Weeping Essence of Greed" "Weeping Essence of Contempt" "Weeping Essence of Hatred" "Weeping Essence of Woe" "Weeping Essence of Fear" "Weeping Essence of Anger" "Weeping Essence of Torment" "Weeping Essence of Sorrow" "Weeping Essence of Rage" "Weeping Essence of Suffering" "Weeping Essence of Wrath" "Weeping Essence of Doubt"
+	
+#	SetFontSize Default	
+	
+Show # TIER 2:
+	Class "Currency"
+	BaseType "Muttering Essence of Greed" "Muttering Essence of Contempt" "Muttering Essence of Hatred" "Muttering Essence of Woe" "Muttering Essence of Fear" "Muttering Essence of Anger" "Muttering Essence of Torment" "Muttering Essence of Sorrow"
+
+#	SetFontSize Default	
+	
+Show # TIER 1:
+	Class "Currency"
+	BaseType "Whispering Essence of Greed" "Whispering Essence of Contempt" "Whispering Essence of Hatred" "Whispering Essence of Woe"
+
+#	SetFontSize Default

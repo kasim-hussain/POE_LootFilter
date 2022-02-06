@@ -1,0 +1,16 @@
+# -   BLIGHT LEAGUE
+Show
+	BaseType "Black Oil" "Crimson Oil" "Golden Oil" "Opalescent Oil" "Silver Oil" "Tainted Oil"
+
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp
+	PlayAlertSound 5 100
+	
+Show
+	Class "Currency"
+	BaseType "Amber Oil" "Azure Oil" "Clear Oil" "Indigo Oil" "Sepia Oil" "Teal Oil" "Verdant Oil"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow

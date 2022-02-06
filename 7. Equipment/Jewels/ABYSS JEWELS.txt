@@ -1,0 +1,6 @@
+# -   ABYSS JEWELS
+Show
+	Class "Jewel"
+	BaseType "Ghastly Eye Jewel" "Hypnotic Eye Jewel" "Murderous Eye Jewel" "Searching Eye Jewel"
+	
+#	SetFontSize Default	

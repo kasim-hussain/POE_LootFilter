@@ -1,0 +1,9 @@
+# -   METAMORPH LEAGUE
+Show
+	Class "Currency"
+	BaseType "Abrasive Catalyst" "Accelerating Catalyst" "Fertile Catalyst" "Imbued Catalyst" "Intrinsic Catalyst" "Noxious Catalyst" "Prismatic Catalyst" "Tempering Catalyst" "Turbulent Catalyst" "Unstable Catalyst"
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Yellow Circle
+	PlayEffect Yellow Temp

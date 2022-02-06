@@ -1,0 +1,6 @@
+# -   CLUSTER JEWELS
+Show
+	Class "Jewel"
+	BaseType "Small Cluster Jewel" "Medium Cluster Jewel" "Large Cluster Jewel"
+	
+#	SetFontSize Default	

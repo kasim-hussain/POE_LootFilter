@@ -1,0 +1,52 @@
+Show
+	Class "Maps"
+	Rarity Unique
+	
+	SetFontSize 45
+	
+	MinimapIcon 0 Brown Circle 
+	PlayEffect Brown Temp
+	PlayAlertSound 5 100
+	
+# -   SHAPER REALM	
+Show
+	Class "Maps"
+	ShapedMap True
+	
+	SetFontSize 45
+	
+	MinimapIcon 0 Grey Circle
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+	
+# -   ELDER REALM
+Show
+	Class "Maps"
+	ElderMap True
+	
+	SetFontSize 45
+	
+	MinimapIcon 0 Grey Circle
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+
+# -   BLIGHTED
+Show
+	Class "Maps"
+	UberBlightedMap True
+	
+	SetFontSize 45
+	
+	MinimapIcon 0 Grey Circle
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+	
+Show
+	Class "Maps"
+	BlightedMap True
+	
+	SetFontSize 45
+	
+	MinimapIcon 0 Grey Circle
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100

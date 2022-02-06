@@ -1,0 +1,7 @@
+# -   RITUAL LEAGUE
+Show
+	Class "Currency"
+	BaseType "Ritual Splinter" "Ritual Vessel"
+	
+#	SetFontSize Default	
+	PlayEffect Yellow

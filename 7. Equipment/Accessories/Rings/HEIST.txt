@@ -1,0 +1,6 @@
+# -   HEIST RINGS
+Show
+	Class "Rings"
+	BaseType "Cogwork Ring" "Geodesic Ring"
+	
+#	SetFontSize Default	

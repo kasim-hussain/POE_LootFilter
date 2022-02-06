@@ -1,0 +1,9 @@
+# -   UNIQUES
+Show
+	Class "Amulets" "Axes" "Belts" "Body Armours" "Bows" "Boots" "Claws" "Daggers" "Fishing Rods" "Flasks" "Gloves" "Helmets" "Jewels" "Maces" "Quivers" "Rings" "Sceptres" "Shields" "Staves" "Swords" "Wands"
+	Rarity Unique 
+	
+#	SetFontSize Default	
+	
+	MinimapIcon 0 Brown Star
+	PlayEffect Brown Temp

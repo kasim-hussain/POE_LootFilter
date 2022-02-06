@@ -1,0 +1,47 @@
+# -   DEFAULT MAPS
+Show
+	Class "Maps"
+	BaseType "Pit of the Chimera Map" "Lair of the Hydra Map" "Maze of the Minotaur Map" "Forge of the Phoenix Map"
+	
+	SetFontSize 45
+	
+	MinimapIcon 0 Grey Circle
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+	
+Show # Best Maps
+	Class "Maps"
+	BaseType "Atoll Map" "Canyon Map" "Dunes Map" "Glacier Map" "Lair Map" "Mesa Map" "Phantasmagoria Map" "Strand Map" "Tower Map" "Toxic Sewer Map" "Vault Map" "Waterways Map"
+	
+	SetFontSize 45
+	
+	MinimapIcon 0 Grey Circle
+	PlayEffect Grey Temp
+	PlayAlertSound 5 100
+	
+Show # Red Tier Maps
+	Class "Maps"
+	MapTier < 16
+	MapTier >= 11
+	
+#	SetFontSize Default
+
+	MinimapIcon 0 Grey Circle 
+	
+Show # Yellow Tier Maps
+	Class "Maps"
+	MapTier < 10
+	MapTier >= 6
+	
+#	SetFontSize Default
+
+	MinimapIcon 1 Grey Circle 
+
+Show # White Tier Maps
+	Class "Maps"
+	MapTier < 5
+	MapTier >= 1
+	
+#	SetFontSize Default
+
+	MinimapIcon 2 Grey Circle 

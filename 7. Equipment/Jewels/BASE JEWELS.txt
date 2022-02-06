@@ -1,0 +1,7 @@
+# -   ABYSS JEWELS
+Show
+	Class "Jewel"
+	BaseType "Cobalt Jewel" "Crimson Jewel" "Viridian Jewel"
+	Rarity Rare 
+	
+#	SetFontSize Default	

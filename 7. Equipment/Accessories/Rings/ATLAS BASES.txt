@@ -1,0 +1,6 @@
+# -   ATLAS BASES
+Show
+	Class "Rings"
+	BaseType "Cerulean Ring" "Iolite Ring" "Opal Ring" "Steel Ring" "Vermillion Ring"
+	
+#	SetFontSize Default	

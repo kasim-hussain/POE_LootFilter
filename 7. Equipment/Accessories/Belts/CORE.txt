@@ -1,0 +1,6 @@
+# -   CORE BELTS
+Show
+	Class "Rings"
+	BaseType "Chain Belt" "Rustic Sash" "Heavy Belt" "Leather Belt" "Cloth Belt" "Studded Belt"
+
+#	SetFontSize Default	

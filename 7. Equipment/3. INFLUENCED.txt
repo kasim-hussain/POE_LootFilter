@@ -1,0 +1,10 @@
+# --- INFLUENCED
+Show
+	HasInfluence "Crusader" "Hunter" "Redeemer" "Warlord"
+	
+#	SetFontSize Default	
+
+Show
+	HasInfluence "Elder" "Shaper"
+	
+#	SetFontSize Default	
